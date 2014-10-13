@@ -40,5 +40,4 @@ obj
 *.unsuccessfulbuild
 
 # Compiled binaries
-/snap
 /unit_tests
